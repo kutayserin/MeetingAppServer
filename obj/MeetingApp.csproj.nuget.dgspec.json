@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tahak\\MeetingApp\\MeetingApp.csproj": {}
+    "C:\\Users\\tahak\\MeetingAppServer\\MeetingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tahak\\MeetingApp\\MeetingApp.csproj": {
+    "C:\\Users\\tahak\\MeetingAppServer\\MeetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahak\\MeetingApp\\MeetingApp.csproj",
+        "projectUniqueName": "C:\\Users\\tahak\\MeetingAppServer\\MeetingApp.csproj",
         "projectName": "MeetingApp",
-        "projectPath": "C:\\Users\\tahak\\MeetingApp\\MeetingApp.csproj",
+        "projectPath": "C:\\Users\\tahak\\MeetingAppServer\\MeetingApp.csproj",
         "packagesPath": "C:\\Users\\tahak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahak\\MeetingApp\\obj\\",
+        "outputPath": "C:\\Users\\tahak\\MeetingAppServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tahak\\AppData\\Roaming\\NuGet\\NuGet.Config",

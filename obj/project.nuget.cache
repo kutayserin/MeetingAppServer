@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "umGndguDk8w=",
+  "dgSpecHash": "rfKNaQCiSG0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tahak\\MeetingApp\\MeetingApp.csproj",
+  "projectFilePath": "C:\\Users\\tahak\\MeetingAppServer\\MeetingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tahak\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\tahak\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
