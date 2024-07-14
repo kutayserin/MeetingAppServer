@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\uploads\\0dc02105-36f2-4aae-8ff3-f21bddaca654_signature.png",
+      "PackagePath": "staticwebassets\\uploads\\0dc02105-36f2-4aae-8ff3-f21bddaca654_signature.png"
+    },
+    {
+      "Id": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\uploads\\58d538aa-1180-43f2-9cea-94baf9828f18_empty.png",
+      "PackagePath": "staticwebassets\\uploads\\58d538aa-1180-43f2-9cea-94baf9828f18_empty.png"
+    },
+    {
+      "Id": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\uploads\\c438bdd4-2cc8-4b31-9634-cfe75ecc92ca_signature.png",
+      "PackagePath": "staticwebassets\\uploads\\c438bdd4-2cc8-4b31-9634-cfe75ecc92ca_signature.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MeetingApp.props",
+      "PackagePath": "build\\MeetingApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MeetingApp.props",
+      "PackagePath": "buildMultiTargeting\\MeetingApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MeetingApp.props",
+      "PackagePath": "buildTransitive\\MeetingApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "be4Vn6evKFyhi838dH7cHn0WrIje/RpFtrvi72ZY6uk=",
+  "Source": "MeetingApp",
+  "BasePath": "_content/MeetingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MeetingApp\\wwwroot",
+      "Source": "MeetingApp",
+      "ContentRoot": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\uploads\\0dc02105-36f2-4aae-8ff3-f21bddaca654_signature.png",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "uploads/0dc02105-36f2-4aae-8ff3-f21bddaca654_signature.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0dc02105-36f2-4aae-8ff3-f21bddaca654_signature.png"
+    },
+    {
+      "Identity": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\uploads\\58d538aa-1180-43f2-9cea-94baf9828f18_empty.png",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "uploads/58d538aa-1180-43f2-9cea-94baf9828f18_empty.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\58d538aa-1180-43f2-9cea-94baf9828f18_empty.png"
+    },
+    {
+      "Identity": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\uploads\\c438bdd4-2cc8-4b31-9634-cfe75ecc92ca_signature.png",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tahak\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "uploads/c438bdd4-2cc8-4b31-9634-cfe75ecc92ca_signature.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c438bdd4-2cc8-4b31-9634-cfe75ecc92ca_signature.png"
+    }
+  ]
+}
